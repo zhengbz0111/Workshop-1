@@ -29,8 +29,8 @@ click
 the list of tracked projects in the same window.
 Now simply click on the project to open it in Unity.
 
-> **Info** <br>
-> in Unity for the first time can take a while, since cached library files need to
+> **Note** <br>
+> Opening a project in Unity for the first time can take a while, since cached library files need to
 > be generated. However,
 > subsequent loads of the same project should be a lot faster provided that you
 > don't delete these files
