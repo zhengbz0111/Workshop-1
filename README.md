@@ -29,7 +29,7 @@ click
 the list of tracked projects in the same window.
 Now simply click on the project to open it in Unity.
 
-> :information_source: Opening a project
+> **Info** <br>
 > in Unity for the first time can take a while, since cached library files need to
 > be generated. However,
 > subsequent loads of the same project should be a lot faster provided that you
@@ -53,9 +53,9 @@ and then back to the scene tab when you click it again to stop the simulation.
 Although the switch is automatic, it is possible to manually switch between
 these at any point.
 
-> :warning: Any changes you make to the scene while the game is running are __
-> temporary__.
-> A common rookie trap is to manually switch to the `Scene` tab
+> **Warning** <br>
+> Any changes you make to the scene while the game is running are 
+> __temporary__. A common rookie trap is to manually switch to the `Scene` tab
 > while the game is running, then continuing to work on the project thinking it
 > will be saved (here's
 > a [meme](https://www.reddit.com/r/Unity3D/comments/2xh516/when_you_realise_youve_been_making_changes_in/)
@@ -133,7 +133,8 @@ to this variable,
 we allow its value to be set within the
 Unity interface, and also saved as part of the scene.
 
-> :information_source: If you have used Unity before it's likely you have
+> **Note** <br>
+> If you have used Unity before it's likely you have
 > seen `public` variables used instead of `private` variables with associated
 > `[SerializeField]` attributes. Both methods are valid ways to 'expose' a
 > variable within the Unity editor interface. However,
