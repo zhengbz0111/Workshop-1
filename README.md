@@ -45,7 +45,7 @@ At the top center of the editor window you should see a :arrow_forward: (play)
 button. Click on it and the "game" will
 start. You should be able to see the same sequence as the gif at the top of
 this `README`. If the layout looks strange, you may need to explicitly set the resolution
-in the `Play` tab to `Full HD (1920x1080)`:
+in the `Game` tab to `Full HD (1920x1080)`:
 
 <p align="center">
   <img src="Gifs/aspect-ratio.png">
